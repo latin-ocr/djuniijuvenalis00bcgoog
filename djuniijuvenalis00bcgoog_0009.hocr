@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./djuniijuvenalis00bcgoog_0009.png"; bbox 0 0 3059 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 435 1798 1016 2124">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 435 1798 1016 2124">
+     <span class='ocr_line' id='line_1_1' title="bbox 449 1798 1006 1883; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 449 1798 601 1883; x_wconf 88' lang='grc' dir='ltr'>ΟΤΤΟ</span> <span class='ocrx_word' id='word_1_2' title='bbox 623 1799 1006 1882; x_wconf 85' lang='lat' dir='ltr'><strong>HIRSOHFELD</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 435 2039 1016 2124; baseline 0.003 -2"><span class='ocrx_word' id='word_1_3' title='bbox 435 2039 694 2123; x_wconf 87' lang='lat' dir='ltr'>ARTHUR</span> <span class='ocrx_word' id='word_1_4' title='bbox 725 2039 1016 2124; x_wconf 86' lang='lat' dir='ltr'>LUDWIOH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 509 2282 947 2367">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 509 2282 947 2367">
+     <span class='ocr_line' id='line_1_3' title="bbox 509 2282 947 2367; baseline 0.005 -2"><span class='ocrx_word' id='word_1_5' title='bbox 509 2283 660 2366; x_wconf 87' lang='lat' dir='ltr'>PAUL</span> <span class='ocrx_word' id='word_1_6' title='bbox 686 2282 947 2367; x_wconf 84' lang='lat' dir='ltr'><strong>STENGEL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 629 2630 867 2690">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 629 2630 867 2690">
+     <span class='ocr_line' id='line_1_4' title="bbox 629 2630 867 2690; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 629 2630 867 2690; x_wconf 83' lang='lat' dir='ltr'><strong>GEWIDMET.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1534 4934">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1534 4934">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1534 4934; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1534 4934; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
